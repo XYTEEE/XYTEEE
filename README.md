@@ -1,6 +1,6 @@
 |Profile|About myself
 |-|-|
-![](https://avatars.githubusercontent.com/XYTEEE?s=110&v=1) | 🙋Hey welcome to my github account 😇 Introduce my name is Rifat, I come from Bangladesh Don't forget to follow my github account and star the repository that I uploaded, thank you 🙏
+![](https://avatars.githubusercontent.com/XYTEEE?s=110&v=1) | 🙋Hey welcome to my github account 😇 Introduce my name is Kawsar, I come from Bangladesh Don't forget to follow my github account and star the repository that I uploaded, thank you 🙏
  
 [![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://facebook.com/groups/483783567010955/) <b><b> | [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=WhatsApp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+8801926890544?text=Asalamualaikum+Sir) <b><b>
  
