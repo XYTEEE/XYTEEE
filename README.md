@@ -1,21 +1,10 @@
+
+
 |Profile|About myself
 |-|-|
 ![](https://avatars.githubusercontent.com/XYTEEE?s=110&v=1) | 🙋Hey welcome to my github account 😇 Introduce my name is Kawsar, I come from Bangladesh Don't forget to follow my github account and star the repository that I uploaded, thank you 🙏
  
-[![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://facebook.com/groups/483783567010955/) <b><b> | [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=WhatsApp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+8801926890544?text=Asalamualaikum+Sir) <b><b>
- 
-|✅|follow their github so as not to miss the latest updates
-|-|-|
- 
-[PSYCHO PICCHI](https://github.com/PSYCHO-PICCHI) 
---|--|--|--|--|--|--|
-![Yayan_XD](https://avatars.githubusercontent.com/PSYCHO-PICCHI?s=110&v=1)
-____
-<img
-src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
- 
- 
- 
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://facebook.com/groups/483783567010955/) <b><b> | [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=WhatsApp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+8801926890544?text=Asalamualaikum+Sir) <b><b>
  
  
  
@@ -35,7 +24,7 @@ public MyClass {
 } 
 ```
 <p align="center">
-  Code By <a href="https://github.com/XYTEEE">Legend</a>
+  Code By <a href="https://github.com/XYTEEE">XYTEEE</a>
 </p>
 <li> 👨‍🎓 <i> STUDENT</i></li>
 <li> 🇧🇩 <i> BANGLADESH</i></li>
@@ -64,24 +53,9 @@ public MyClass {
     </a>
 </p>
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=XYTEEE&repo=OPEN-SOURCE&layout=compact&theme=dark)](https://github.com/XYTEEE/OPEN-SOURCE)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=XYTEEE&repo=6T9&layout=compact&theme=dark)](https://github.com/XYTEEE/6T9)
-## WEB FOR LEARNING
-<img src="https://github.com/XYTEEE/XYTEEE/blob/main/website.jpg">
-
-[HERE](https://s.id/feristyle)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=XYTEEE&repo=XYTEEE-XC&layout=compact&theme=dark)](https://github.com/XYTEEE/XYTEEE-XC)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=XYTEEE&repo=INSTAGRAM&layout=compact&theme=dark)](https://github.com/XYTEEE/INSTAGRAM)
 
 ## Contacts Me
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/XYTEEE)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/smart.danie.3)
-
-## PARTICIPATION
-<ul>
-<li>
-Participation Certificate
-</li>
-</ul>
-<img src="https://github.com/XYTEEE/FileServer/blob/main/sfd.jpg"/>
-
-## ⭐⭐⭐⭐⭐
-<img src="https://raw.githubusercontent.com/Carol42/Carol42/output/github-contribution-grid-snake.svg"/>
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/XyteeeHackingTools)
