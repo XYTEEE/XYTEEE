@@ -39,9 +39,6 @@ public MyClass {
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=XYTEEE&layout=compact&theme=dark)](https://github.com/XYTEEE/XYTEEE)
 
-## 🏆 **My GitHub Statistics**
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=XYTEEE&show_icons=true&theme=radical)  
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=XYTEEE&layout=compact&theme=radical)  
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=XYTEEE&repo=XYTEEE-XC&layout=compact&theme=dark)](https://github.com/XYTEEE/XYTEEE-XC)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=XYTEEE&repo=INSTAGRAM&layout=compact&theme=dark)](https://github.com/XYTEEE/INSTAGRAM)
